@@ -10,6 +10,7 @@ pandas = "*"
 ipykernel = "*"
 jupyter = "*"
 xlrd = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.6"
