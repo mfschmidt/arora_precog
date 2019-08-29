@@ -6,7 +6,7 @@ Instructions for setting up the environment in linux follow.
     pipenv install  # (based on the Pipfile) installs ipykernel and jupyter
     pipenv shell
     python -m ipykernel install --user --name=arora_precog
-    jupyter notebook
+    jupyter lab  # or jupyter notebook
     
 For MacOS or Windows, try installing Jupyter via Anaconda, and running from wherever you download
 this git repository.
